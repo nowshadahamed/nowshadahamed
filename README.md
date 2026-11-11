@@ -1,8 +1,6 @@
-<h1 align="center">Nowshad Ahamed</h1>
-
-<h3 align="center">
+<h1 align="center">
 AI Researcher | Data Analyst | IT Systems & Web Application Developer
-</h3>
+</h1>
 
 <p align="center">
   Building intelligent systems at the intersection of
