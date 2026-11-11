@@ -51,7 +51,8 @@ IT Systems, Healthcare Technology and Digital Operations**.
 I enjoy turning real-world problems into practical solutions using
 **AI, data analysis, automation, APIs and web applications**.
 
-- 🔬 Student Researcher at **ELITE Research Lab LLC**
+- 💼 Country Head – IT Systems & Data Specialist at **Staff America (Asia Office of Rahma Home Care Agency, Texas, USA)**
+- 🔬 Student Researcher at **ELITE Research Lab LLC, New York, USA**
 - 🧠 Interested in **AI, ML, Computer Vision & Explainable AI**
 - 📊 Experienced in **Data Analytics & Visualization**
 - 🏥 Working with **Healthcare Technology & Data Systems**
