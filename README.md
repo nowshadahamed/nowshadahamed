@@ -1,5 +1,5 @@
 <h1 align="center">
-AI Researcher | Data Analyst | IT Systems & Web Application Developer
+AI Researcher | Data Analyst | IT Systems & Web Apps Developer
 </h1>
 
 <p align="center">
