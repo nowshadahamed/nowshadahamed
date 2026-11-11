@@ -10,13 +10,32 @@ AI Researcher | Data Analyst | IT Systems & Web Application Developer
 </p>
 
 <p align="center">
-  <a href="https://nowshadahamed.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+  <a href="https://nowshadahamed.github.io/" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:pdnowshadahamed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  <a href="https://scholar.google.com/citations?hl=en&user=TbCUtlQAAAAJ&view_op=list_works&gmla=AKzYXQ1-XiIcaoVb1YoERm-7qitV9ZmOuEbhxoECn9dpwyJIKvR6G5GPJPjHVzYEUMZuseIs1x2zGrMZD3Y9rB480kf6-6ITnJ5XwD4y0BkwkPZtpriP79hh1Bcpdg5CuZFJ" title="Google Scholar">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
-</p>
+
+  <a href="https://www.researchgate.net/profile/Nowshad-Ahamed?ev=hdr_xprf" title="ResearchGate">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+  </a>
+
+  <a href="https://orcid.org/0009-0006-2851-7396" title="ORCID">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/nowshad-ahamed/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:pdnowshadahamed@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>>
 
 ---
 
