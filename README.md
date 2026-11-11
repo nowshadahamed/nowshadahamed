@@ -33,7 +33,7 @@ AI Researcher | Data Analyst | IT Systems & Web Apps Developer
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-</p>>
+</p>
 
 ---
 
