@@ -1,6 +1,6 @@
-<h1 align="center">
-AI Researcher | Data Analyst | IT Systems & Web Apps Developer
-</h1>
+<p align="center">
+  <img src="./rainbow-title.svg" width="100%" alt="Professional Heading"/>
+</p>
 
 <p align="center">
   Building intelligent systems at the intersection of
